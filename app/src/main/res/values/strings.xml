@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Mounika</string>
+    <string name="community" />
+    <string name="home" />
+    <string name="trackme" />
+    <string name="safety_tips">Safety Tips</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+    <string name="geofence">Geofence</string>
+    <string name="logout">Logout</string>
+    <string name="saferoute">saferoute</string>
+    <string name="safe_route">Saferoute</string>
+    <string name="socialmedia">SocialMedia</string>
+</resources>

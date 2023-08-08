@@ -1,0 +1,5 @@
+- Avoid clicking on suspicious links or downloading unknown files from emails or messages.
+- Use strong and unique passwords for all your online accounts.
+- Enable two-factor authentication (2FA) for an extra layer of security.
+- Keep your devices and software up to date with the latest security patches.
+- Be cautious about sharing personal information with unknown individuals or websites.

@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_Home"
+        android:title="@string/home"
+        android:icon="@drawable/ic_menu_home"/>
+    <item
+        android:id="@+id/menu_TrackMe"
+        android:icon="@drawable/ic_menu_track_me"
+        android:title="@string/trackme" />
+    <item
+        android:id="@+id/menu_Community"
+        android:title="@string/community"
+        android:icon="@drawable/ic_menu_community" />
+    <item
+        android:id="@+id/menu_safety_tips"
+        android:title="@string/safety_tips"
+        android:icon="@drawable/ic_menu_safety_tips"/>
+</menu>

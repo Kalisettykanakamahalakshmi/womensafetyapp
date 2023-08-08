@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "741385373878",
+    "project_id": "mounika-c2ab6",
+    "storage_bucket": "mounika-c2ab6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741385373878:android:91e55e3aa76e3a910bfe17",
+        "android_client_info": {
+          "package_name": "com.example.mounika"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741385373878-mutofknafpdg0ige24qf1sggtc6idpq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLtIfogritfpvaCJ0vvHmfXKwYjurVT0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741385373878-mutofknafpdg0ige24qf1sggtc6idpq0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

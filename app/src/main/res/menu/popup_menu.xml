@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_settings"
+        android:title="@string/settings" />
+    <item
+        android:id="@+id/menu_geofence"
+        android:title="@string/geofence" />
+    <item
+        android:id="@+id/menu_about"
+        android:title="@string/about" />
+    <item
+        android:id="@+id/menu_safe_route"
+        android:title="@string/safe_route" />
+
+    <item
+        android:id="@+id/menu_socialmedia"
+        android:title="@string/socialmedia" />
+</menu>
